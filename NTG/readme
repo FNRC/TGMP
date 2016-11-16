@@ -1,0 +1,4 @@
+1)依赖库
+libzdb
+mysql
+pthread
